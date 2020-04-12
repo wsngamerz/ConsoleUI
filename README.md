@@ -13,8 +13,8 @@ Example program is in the ```main.cs``` script
 
 ### ToDo:
 - [ ] Components
-      - *Store components in a component tree that can be rendered top to bottom*
+    - *Store components in a component tree that can be rendered top to bottom*
 - [ ] Create a Layout Class / System
-      - *Will likely be a simple grid System*
-      - *rows, columns, rowspan, colspan should suffice*
-      - *should implement component class so a SubGrid should just work*
+    - *Will likely be a simple grid System*
+    - *rows, columns, rowspan, colspan should suffice*
+    - *should implement component class so a SubGrid should just work*
