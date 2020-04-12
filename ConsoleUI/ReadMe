@@ -1,0 +1,16 @@
+ConsoleUI
+
+ConsoleUI is meant to be a small utility library written in C#
+to quicky create a user interface for small projects
+
+Components:
+- [x] Menu
+- [ ] Progress Bar
+- [ ] File Selector
+
+TODO:
+- [ ] Components
+- [ ] Create a Layout Class / System
+      - Will likely be a simple grid System
+      - rows, columns, rowspan, colspan should suffice
+      - should implement component class so a SubGrid should just work
